@@ -24,7 +24,7 @@ The scraped data consists of approximately 8015 rows and 9 columns, including th
 7. Car Type: The type of car (sedan, SUV, hatchback, luxury SUV, luxury sedan).
 8. Fuel: The fuel used (petrol, diesel, CNG, etc.).
 9. Price: The price of the car.
-Link for dataset is here you can have a look [link]()
+Link for dataset is here you can have a look [link](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars_24_combined.csv)
 
 # Requirements
  Requirements engineering is like imagining a birthday party. listing and organizing  the birthday person's wishes (e.g.
