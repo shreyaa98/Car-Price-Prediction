@@ -2,22 +2,15 @@
 This repository contains the Selenium web scraper for extracting data from cars24.com, a popular online platform for buying and selling used cars.
 The scraper retrieves information about different types of used cars, including sedans, SUVs, hatchbacks, luxury SUVs, and luxury sedans.
 
-# Prerequisite
-To run the scraper, ensure you have the following dependencies installed:
+# Table of Content
+1. Features of my project
+2. Pre-Requisites
+3. Code-File
+4. Dataset
+5. Requirements Engineering
+6. UML
 
-- Python 
-- Selenium WebDriver
-- Chrome or Firefox web browser
-- Pandas library
-
-You can download the Chrome driver from the following link [link](https://chromedriver.storage.googleapis.com/index.html) . Please download the version that matches your browser version. for python download link is here [python link](https://www.python.org/)
-
-# Code File 
-link for my code file is here [python_file](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars24.py)
-
-# DataSet
-The scraped data consists of approximately 8015 rows and 9 columns, including the following information:
-
+# Features
 1. Car Name: The name or model of the car.
 2. Distance: The distance already traveled by the car.
 3. Year Bought: The year when the car was purchased.
@@ -27,9 +20,26 @@ The scraped data consists of approximately 8015 rows and 9 columns, including th
 7. Car Type: The type of car (sedan, SUV, hatchback, luxury SUV, luxury sedan).
 8. Fuel: The fuel used (petrol, diesel, CNG, etc.).
 9. Price: The price of the car.
-Link for dataset is here you can have a look [link](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars_24_combined.csv)
 
-# Requirements
+# Prerequisite
+To run the scraper, ensure you have the following dependencies installed:
+
+- Python 
+- Selenium WebDriver
+- Chrome or Firefox web browser
+- Pandas library
+
+You can download the Chrome driver from the following link [link](https://chromedriver.storage.googleapis.com/index.html). Please download the version that matches your browser version. For python, the download link is here [python link](https://www.python.org/)
+
+# Code File 
+To access the code and check how I created this project the link is given Below [python_file](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars24.py)
+
+# DataSet
+The scraped data consists of approximately 8015 rows and 9 columns, including the following information:
+
+The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars_24_combined.csv)
+
+# Requirement Engineering
  Requirements engineering is like imagining a birthday party. listing and organizing  the birthday person's wishes (e.g.
  cake flavor, decorations,  and music) to ensure everyone's expectations are clear and the party goes well.
  is. Similarly, for our project, we need some requirements to build it here are given 
@@ -39,8 +49,8 @@ Link for dataset is here you can have a look [link](https://github.com/shreyaa98
  2. Data transformation: Prepare data for machine learning models by converting categorical variables into numerical representations using techniques such as label encoding.
  
  3. Exploratory Data Analysis (EDA): Perform  EDA to understand  relationships between different features and  target variables (car prices) through visualizations (bar graphs, scatter plots,  correlation 
-    heatmaps, etc) .
- 4. Geographic mapping: Implement a mapping mechanism to convert location codes to human-readable locations to improve interpretability of results.
+    heatmaps, etc).
+ 4. Geographic mapping: Implement a mapping mechanism to convert location codes to human-readable locations to improve the interpretability of results.
  
  5. Machine learning models: Develop  machine learning models (e.g.Linear Regression, random forest regressors) that predict car prices based on characteristics such as car name, year, mileage, ownership, fuel, 
      location, powertrain, type, etc.
@@ -50,12 +60,12 @@ Link for dataset is here you can have a look [link](https://github.com/shreyaa98
  7. Forecast Visualization: View a comparison of actual and predicted vehicle prices via a DataFrame or other visualization tools.
    
  
-9. Model Deployment: Optionally deploy the trained model to  production  for real-time prediction.Documentation: To ensure project transparency and knowledge transfer, create documentation detailing  steps 
+9. Model Deployment: Optionally deploy the trained model to  production  for real-time prediction.Documentation: To ensure project transparency and knowledge transfer, create documentation detailing  the steps 
     taken, justification for decisions, and instructions for future maintenance or improvements.
 
  # UML 
  UML diagrams provide a clear visual representation of the  structure, user interactions, and workflow of an online shopping system.
- These diagrams help developers, designers, and stakeholders understand the system's architecture, functionality, and behavior, and promote effective communication and collaboration throughout the  software 
+ These diagrams help developers, designers, and stakeholders understand the system's architecture, functionality, and behavior and promote effective communication and collaboration throughout the  software 
  development process. Here is my UML for my project  
  ![Screenshot 2023-12-04 220042](https://github.com/shreyaa98/Car-Price-Prediction/assets/33647234/4733acb1-01da-458a-87ff-96ddf478d2ca)
 
