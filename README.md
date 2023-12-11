@@ -10,6 +10,8 @@
 6. [Requirement Engineering](#requirement-engineering)
 7. [UML](#uml)
 8. [DDD](#ddd)
+9. [Conclusion](#conclusion)
+10. [License](#license)
 
 # About 
 This repository contains the Selenium web scraper for extracting data from cars24.com, a popular online platform for buying and selling used cars.
@@ -118,6 +120,23 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
 
 **Relational Diagram**
 [DDD](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/DDD.png)
+
+---
+# Conclusion
+
+This is a sneak peek of my project, which is a car price prediction model. I'm still working on the details, so feel free to point out any errors or bugs. Right now, I only have the Python code for this project, but I plan to add more to it. Here is a rough sketch of how the car price predictions work in Python code.
+
+---
+# License
+
+This project is privately owned by Shreyaasri Prakash, a student at SRH Berlin University of Applied Sciences pursuing an MSc in Computer Science, Focused on Big Data and Artificial Intelligence.
+
+Contact Information:
+
+Name: Shreyaasri Prakash
+
+Email: shreyaa.prakash2015@gmail.com
+
 
  
 
