@@ -73,7 +73,7 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
  UML diagrams provide a clear visual representation of the  structure, user interactions, and workflow of an online shopping system.
  These diagrams help developers, designers, and stakeholders understand the system's architecture, functionality, and behavior and promote effective communication and collaboration throughout the  software 
  development process. Here is my UML for my project  
- ![Screenshot 2023-12-04 220042](https://github.com/shreyaa98/Car-Price-Prediction/assets/33647234/4733acb1-01da-458a-87ff-96ddf478d2ca)
+ [uml](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/UML_diagram.png)
 
  UML for my ML Model 
  1. Linear Regression
