@@ -101,7 +101,7 @@ Here are my domains
 
 Here is the Relational Diagram 
 
-![DDD](https://github.com/shreyaa98/Car-Price-Prediction/assets/33647234/3a2a79b9-197c-47df-846e-0f75aa388cb1)
+[DDD](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/DDD.png)
 
  
 
