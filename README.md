@@ -85,7 +85,27 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
 ---
 
 # DDD
-Here are my domains
+ Imagine if everyone at the dealership, from salespeople to managers, used the same language to explain things. For example, when we talk about "customers" or "cars" they all mean the same thing.
+ This helps avoid confusion.
+ 
+ Different areas with clear rules: Imagine a car dealership with different departments, such as sales and finance.
+ Each division has its own  rules and focuses on certain things. For example, the sales team is responsible for selling cars, and the finance team is responsible for financial matters.
+ 
+ Important Things and Collections: Imagine something important  at the dealership, such as a particular car or  customer. These are like the main characters. Additionally, there are groups  such as "Car Sales" 
+ that involve customers, cars, and prices.
+ 
+ Prices and Details: Consider the price of a car. This is an important detail, but it does not exist in and of itself. It is part of a larger whole, such as the entire transaction when a customer buys a car.DDD 
+ thinks this way about pricing and other details.
+ 
+ Storing and Retrieving Information: Think of the "car repository" as a big file cabinet where car dealers store all the information about the cars they own. Similarly, the Customer Repository stores details 
+ about  customers. This makes it easier to find and manage information.
+ 
+ Special Tasks: Sometimes some tasks don't  fit  the essence or details. At a car dealership, a "pricing service" can be a special helper that determines the final price of a car based on a variety of factors.
+ In other words, DDD is about speaking the same language, dividing the dealer into clear areas, focusing on what's important  and its details, keeping information organized, and having dedicated helpers for 
+ specific tasks. It's like creating a well-written storybook of how a car dealership works.
+
+
+**Domains**
 1. Product
 2. Customer
 3. Order
@@ -96,8 +116,7 @@ Here are my domains
 8. Time
 9. Event
 
-Here is the Relational Diagram 
-
+**Relational Diagram**
 [DDD](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/DDD.png)
 
  
