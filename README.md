@@ -35,7 +35,7 @@ To run the scraper, ensure you have the following dependencies installed:
 - Chrome or Firefox web browser
 - Pandas library
 
-You can download the Chrome driver from the following link [link](https://chromedriver.storage.googleapis.com/index.html). Please download the version that matches your browser version. For python, the download link is here [python link](https://www.python.org/)
+You can download the Chrome driver from the following [link](https://chromedriver.storage.googleapis.com/index.html). Please download the version that matches your browser version. For python, the download link is here [python link](https://www.python.org/)
 
 # Code File 
 To access the code and check how I created this project the link is given Below [python_file](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars24.py)
