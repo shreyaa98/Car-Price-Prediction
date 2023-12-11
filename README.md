@@ -1,14 +1,20 @@
-# Car-Price-Prediction
+## CAR PRICE PREDICTION
+
+
+# Table of Content
+1. [About](#about)
+2. [Features](#features)
+3. [Pre-Requisites](#pre-requisites)
+4. [Code-File](#code-file)
+5. [Dataset](#dataset)
+6. [Requirement Engineering](#requirement-engineering)
+7. [UML](#uml)
+8. [DDD](#ddd)
+
+# About 
 This repository contains the Selenium web scraper for extracting data from cars24.com, a popular online platform for buying and selling used cars.
 The scraper retrieves information about different types of used cars, including sedans, SUVs, hatchbacks, luxury SUVs, and luxury sedans.
 
-# Table of Content
-1. Features of my project
-2. Pre-Requisites
-3. Code-File
-4. Dataset
-5. Requirements Engineering
-6. UML
 
 # Features
 1. Car Name: The name or model of the car.
@@ -21,7 +27,7 @@ The scraper retrieves information about different types of used cars, including 
 8. Fuel: The fuel used (petrol, diesel, CNG, etc.).
 9. Price: The price of the car.
 
-# Prerequisite
+# Pre-requisites
 To run the scraper, ensure you have the following dependencies installed:
 
 - Python 
@@ -77,8 +83,19 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
  2. Random Forest Classifier
     ![Random Forest](https://github.com/shreyaa98/Car-Price-Prediction/assets/33647234/87193913-676a-41e8-959b-3abbb33a85ba)
 
+---
 
-
+# DDD
+Here are my domains
+1. Product
+2. Customer
+3. Order
+4. Payment
+5. Inventory
+6. Service
+7. Location
+8. Time
+9. Event
  
 
 
