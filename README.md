@@ -98,6 +98,11 @@ Here are my domains
 7. Location
 8. Time
 9. Event
+
+Here is the Relational Diagram 
+
+![DDD](https://github.com/shreyaa98/Car-Price-Prediction/assets/33647234/3a2a79b9-197c-47df-846e-0f75aa388cb1)
+
  
 
 
