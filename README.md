@@ -76,14 +76,11 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
  [uml](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/UML_diagram.png)
 
  UML for my ML Model 
- 1. Linear Regression
-
-    [Linear_Regression](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/Linear_Regression.png)
+ 1. [Linear Regression](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/Linear_Regression.png)
 
 
 
- 2. Random Forest Classifier
-    ![Random Forest](https://github.com/shreyaa98/Car-Price-Prediction/assets/33647234/87193913-676a-41e8-959b-3abbb33a85ba)
+ 2. [Random Forest Classifier](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/Random%20Forest.png)
 
 ---
 
