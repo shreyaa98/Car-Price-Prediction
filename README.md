@@ -78,7 +78,7 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
  UML for my ML Model 
  1. Linear Regression
 
-    ![Linear_Regression](https://github.com/shreyaa98/Car-Price-Prediction/assets/33647234/2d762723-4040-44f7-883d-4ead9a360350)
+    [Linear_Regression](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/Linear_Regression.png)
 
 
 
