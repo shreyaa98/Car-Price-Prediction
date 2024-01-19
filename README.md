@@ -127,6 +127,21 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
 
 ---
 # Metrics
+
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=bugs)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
+
+**Screenshot**
+Reference for Badge if the above link expires 
+![Screenshot 2024-01-19 161342](https://github.com/shreyaa98/Car-Price-Prediction/assets/33647234/04827c5e-b7c3-4976-a94b-238e49ed05c0)
+
+
+
 ---
 # Clean Code
 
