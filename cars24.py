@@ -119,6 +119,11 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 rf_model= RandomForestRegressor(n_estimators=100, random_state=42)
 rf_model.fit(X_train,y_train)
 
+
+knn_classifier = KNeighborsClassifier(n_neighbors=3)
+knn_classifier.fit(X_train, y_train)
+y_pred = knn_classifier.predict(X_test)
+
 y_pred=rf_model.predict(X_test)
 mse=mean_squared_error(y_test,y_pred)
 r2 = r2_score(y_test, y_pred)
