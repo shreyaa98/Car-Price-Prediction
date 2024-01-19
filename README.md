@@ -10,8 +10,12 @@
 6. [Requirement Engineering](#requirement-engineering)
 7. [UML](#uml)
 8. [DDD](#ddd)
-9. [Conclusion](#conclusion)
-10. [License](#license)
+9. [Metrics](#metrics)
+10. [Clean Code](#clean_code)
+11. [Usage](#usage)
+12. [Conclusion](#conclusion)
+13. [License](#license)
+
 
 # About 
 This repository contains the Selenium web scraper for extracting data from cars24.com, a popular online platform for buying and selling used cars.
@@ -120,6 +124,15 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
 
 **Relational Diagram**
 [DDD](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/DDD.png)
+
+---
+# Metrics
+---
+# Clean Code
+
+---
+# Usage
+
 
 ---
 # Conclusion
