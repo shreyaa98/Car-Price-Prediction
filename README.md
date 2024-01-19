@@ -52,28 +52,7 @@ The scraped data consists of approximately 8015 rows and 9 columns, including th
 The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars_24_combined.csv)
 
 # Requirement Engineering
- Requirements engineering is like imagining a birthday party. listing and organizing  the birthday person's wishes (e.g.
- cake flavor, decorations,  and music) to ensure everyone's expectations are clear and the party goes well.
- is. Similarly, for our project, we need some requirements to build it here are given 
- 
- 1. Data Cleansing: Handle missing values ​​appropriately (padding with meaningful values, removing rows/columns, etc.) to ensure that the dataset is clean.
- 
- 2. Data transformation: Prepare data for machine learning models by converting categorical variables into numerical representations using techniques such as label encoding.
- 
- 3. Exploratory Data Analysis (EDA): Perform  EDA to understand  relationships between different features and  target variables (car prices) through visualizations (bar graphs, scatter plots,  correlation 
-    heatmaps, etc).
- 4. Geographic mapping: Implement a mapping mechanism to convert location codes to human-readable locations to improve the interpretability of results.
- 
- 5. Machine learning models: Develop  machine learning models (e.g.Linear Regression, random forest regressors) that predict car prices based on characteristics such as car name, year, mileage, ownership, fuel, 
-     location, powertrain, type, etc.
-6. Model evaluation: Evaluate the performance of your model using metrics such as mean squared error (MSE) and R-squared to ensure its accuracy and reliability.
- Split training and test data: Split the  data set into a training set and a test set to evaluate the  generalization performance of the model.
- 
- 7. Forecast Visualization: View a comparison of actual and predicted vehicle prices via a DataFrame or other visualization tools.
-   
- 
-9. Model Deployment: Optionally deploy the trained model to  production  for real-time prediction.Documentation: To ensure project transparency and knowledge transfer, create documentation detailing  the steps 
-    taken, justification for decisions, and instructions for future maintenance or improvements.
+**https://shreyaaprakash.atlassian.net/jira/software/c/projects/CPP/boards/3**
 
  # UML 
  UML diagrams provide a clear visual representation of the  structure, user interactions, and workflow of an online shopping system.
