@@ -52,10 +52,7 @@ The scraped data consists of approximately 8015 rows and 9 columns, including th
 The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars_24_combined.csv)
 
 # Requirement Engineering
-**https://shreyaaprakash.atlassian.net/jira/software/c/projects/CPP/boards/3**
-
-
-**https://trello.com/b/gctJnPoO/car-priceprediction**
+[Screenshots of Jira and Trello]: (https://github.com/shreyaa98/Car-Price-Prediction/tree/a45153ba40e3db74640551b07b9ec976a752a1ee/Requirements%20Engineering%20(Trello%20and%20Jira))
 
  # UML 
  UML diagrams provide a clear visual representation of the  structure, user interactions, and workflow of an online shopping system.
