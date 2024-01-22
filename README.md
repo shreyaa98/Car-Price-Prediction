@@ -33,6 +33,9 @@ The scraper retrieves information about different types of used cars, including 
 8. Fuel: The fuel used (petrol, diesel, CNG, etc.).
 9. Price: The price of the car.
 
+# Git
+Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Price-Prediction/commits/main/)
+
 # Pre-requisites
 To run the scraper, ensure you have the following dependencies installed:
 
