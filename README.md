@@ -105,7 +105,7 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
 9. Event
 
 **Relational Diagram**
-[DDD](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/DDD.png)
+[DDD](https://github.com/shreyaa98/Car-Price-Prediction/tree/76b2e555b1c1112e1e11847f3fa33c9968cb7ea9/DDD)
 
 ---
 # Metrics
