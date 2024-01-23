@@ -128,7 +128,7 @@ Reference for Badge if the above link expires
 
 ---
 # 7. Clean Code
-Writing code that is simple to read, comprehend and update is known as "clean code development." It entails eliminating needless complexity, utilizing meaningful names, and maintaining consistency in formatting. Clean code is simpler and adheres to concepts like single responsibility, which improves collaboration and long-term software development. 
+Writing code that is simple to read, comprehend and update is known as "clean code development." It entails eliminating needless complexity, utilizing meaningful names, and maintaining consistency in formatting. Clean code is simpler and adheres to concepts like single responsibility, which improves collaboration and long-term software development.[Clean Code](https://github.com/shreyaa98/Car-Price-Prediction/blob/7837a61b1b2750c93f52ea3640cd02e571e95c7d/Clean%20Code%20Development.pdf)
 
 ---
 # 8. Build
