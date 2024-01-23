@@ -138,6 +138,18 @@ Writing code that is simple to read, comprehend and update is known as "clean co
 
 ---
 # 10. IDE
+Adding most favorite shortcuts here and create own to allow faster developemnt without lifting hands from the keyboard
+
+### Pycharm 
+&rarr; *own Shortcut*: 
+- ```option + r``` (run) 
+  
+&rarr; *build-in*:
+- ```cmd + f``` (find)
+- ```cmd + r``` (replace) 
+- ```option + c/v/x``` (copy/paste/cut)
+- ```cmd + /``` (comment (out))  
+- ``` shift + ctrl + d``` (start debugger)
 
 ---
 # 11. Functional Programming
