@@ -63,7 +63,7 @@ Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Pri
  # 2. UML 
  UML diagrams provide a clear visual representation of the  structure, user interactions, and workflow of an online shopping system.
  These diagrams help developers, designers, and stakeholders understand the system's architecture, functionality, and behavior and promote effective communication and collaboration throughout the  software 
- development process. Here is my UML for my project [uml](https://github.com/shreyaa98/Car-Price-Prediction/tree/0c3c362f74f5e037aa522de9eda28fac0f9d8fe9/UML)
+ development process. Here is my UML for my project [UML](https://github.com/shreyaa98/Car-Price-Prediction/tree/0c3c362f74f5e037aa522de9eda28fac0f9d8fe9/UML)
  
 ---
 # 3. Requirement Engineering
@@ -106,7 +106,7 @@ Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Pri
 8. Time
 9. Event
 
-**Relational Diagram**
+**Here is my DDD for my project**
 [DDD](https://github.com/shreyaa98/Car-Price-Prediction/tree/76b2e555b1c1112e1e11847f3fa33c9968cb7ea9/DDD)
 
 ---
@@ -128,7 +128,7 @@ Reference for Badge if the above link expires
 
 ---
 # 7. Clean Code
-Writing code that is simple to read, comprehend and update is known as "clean code development." It entails eliminating needless complexity, utilizing meaningful names, and maintaining consistency in formatting. Clean code is simpler and adheres to concepts like single responsibility, which improves collaboration and long-term software development.[Clean Code](https://github.com/shreyaa98/Car-Price-Prediction/blob/7837a61b1b2750c93f52ea3640cd02e571e95c7d/Clean%20Code%20Development.pdf)
+Writing code that is simple to read, comprehend and update is known as "clean code development." It entails eliminating needless complexity, utilizing meaningful names, and maintaining consistency in formatting. Clean code is simpler and adheres to concepts like single responsibility, which improves collaboration and long-term software development.Here is my clean Code for my project [Clean Code](https://github.com/shreyaa98/Car-Price-Prediction/blob/7837a61b1b2750c93f52ea3640cd02e571e95c7d/Clean%20Code%20Development.pdf)
 
 ---
 # 8. Build
