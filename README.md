@@ -128,6 +128,7 @@ Reference for Badge if the above link expires
 
 ---
 # 7. Clean Code
+Writing code that is simple to read, comprehend and update is known as "clean code development." It entails eliminating needless complexity, utilizing meaningful names, and maintaining consistency in formatting. Clean code is simpler and adheres to concepts like single responsibility, which improves collaboration and long-term software development. 
 
 ---
 # 8. Build
