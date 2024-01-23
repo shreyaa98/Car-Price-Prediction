@@ -33,8 +33,6 @@ The scraper retrieves information about different types of used cars, including 
 8. Fuel: The fuel used (petrol, diesel, CNG, etc.).
 9. Price: The price of the car.
 
-# Git
-Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Price-Prediction/commits/main/)
 
 # Pre-requisites
 To run the scraper, ensure you have the following dependencies installed:
@@ -54,10 +52,10 @@ The scraped data consists of approximately 8015 rows and 9 columns, including th
 
 The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars_24_combined.csv)
 
-# Requirement Engineering
-[Screenshots of Jira and Trello](https://github.com/shreyaa98/Car-Price-Prediction/tree/a45153ba40e3db74640551b07b9ec976a752a1ee/Requirements%20Engineering%20(Trello%20and%20Jira))
+# 1. Git
+Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Price-Prediction/commits/main/)
 
- # UML 
+ # 2. UML 
  UML diagrams provide a clear visual representation of the  structure, user interactions, and workflow of an online shopping system.
  These diagrams help developers, designers, and stakeholders understand the system's architecture, functionality, and behavior and promote effective communication and collaboration throughout the  software 
  development process. Here is my UML for my project  
@@ -71,8 +69,15 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
  2. [Random Forest Classifier](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/Random%20Forest.png)
 
 ---
+# 3. Requirement Engineering
+[Screenshots of Jira and Trello](https://github.com/shreyaa98/Car-Price-Prediction/tree/a45153ba40e3db74640551b07b9ec976a752a1ee/Requirements%20Engineering%20(Trello%20and%20Jira))
 
-# DDD
+---
+# 4. Analysis
+
+---
+
+# 5. DDD
  Imagine if everyone at the dealership, from salespeople to managers, used the same language to explain things. For example, when we talk about "customers" or "cars" they all mean the same thing.
  This helps avoid confusion.
  
@@ -98,7 +103,7 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
 2. Customer
 3. Order
 4. Payment
-5. Inventory
+5.  Inventory
 6. Service
 7. Location
 8. Time
@@ -108,7 +113,7 @@ The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob
 [DDD](https://github.com/shreyaa98/Car-Price-Prediction/tree/76b2e555b1c1112e1e11847f3fa33c9968cb7ea9/DDD)
 
 ---
-# Metrics
+# 6. Metrics
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=shreyaa98_Car-Price-Prediction&metric=bugs)](https://sonarcloud.io/summary/new_code?id=shreyaa98_Car-Price-Prediction)
@@ -125,11 +130,19 @@ Reference for Badge if the above link expires
 
 
 ---
-# Clean Code
+# 7. Clean Code
 
 ---
-# Usage
+# 8. Build
 
+---
+# 9. Unit Tests
+
+---
+# 10. IDE
+
+---
+# 11. Functional Programming
 
 ---
 # Conclusion
