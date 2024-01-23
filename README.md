@@ -141,6 +141,17 @@ Writing code that is simple to read, comprehend and update is known as "clean co
 
 ---
 # 11. Functional Programming
+A coding approach known as functional programming views computation as the assessment of mathematical functions. Immutability—the idea that data remains unchanged after creation—is emphasized. Functions can be assigned to variables, supplied as arguments, and returned as results since they are first-class citizens. This method makes it easier to reason about code and promotes programs that are clear, modular, and predictable.
+
+[Data Structure](https://github.com/shreyaa98/Car-Price-Prediction/blob/d65e9e1d457009454be2071d87ee52eb8f85103f/Functional%20engineering.py#L1)
+
+[Side effect-free functions](https://github.com/shreyaa98/Car-Price-Prediction/blob/d65e9e1d457009454be2071d87ee52eb8f85103f/Functional%20engineering.py#L9)
+
+[Higher Order functions](https://github.com/shreyaa98/Car-Price-Prediction/blob/d65e9e1d457009454be2071d87ee52eb8f85103f/Functional%20engineering.py#L17)
+
+[Functions as parameters and return values](https://github.com/shreyaa98/Car-Price-Prediction/blob/d65e9e1d457009454be2071d87ee52eb8f85103f/Functional%20engineering.py#L25)
+
+[Use of closures/anonymous functions](https://github.com/shreyaa98/Car-Price-Prediction/blob/d65e9e1d457009454be2071d87ee52eb8f85103f/Functional%20engineering.py#L29)
 
 ---
 # Conclusion
