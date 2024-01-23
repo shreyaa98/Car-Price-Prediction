@@ -7,7 +7,7 @@
 3. [Pre-Requisites](#pre-requisites)
 4. [Code-File](#code-file)
 5. [Dataset](#dataset)
-6. [Git](https://github.com/shreyaa98/Car-Price-Prediction?tab=readme-ov-file#git)
+6. [Git](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/README.md#1-git)
 7. [UML](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/README.md#uml)
 8. [Requirement Engineering](https://github.com/shreyaa98/Car-Price-Prediction?tab=readme-ov-file#3-requirement-engineering)
 9. [Analysis](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/README.md#analysis)
