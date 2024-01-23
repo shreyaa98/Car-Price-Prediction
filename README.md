@@ -63,16 +63,8 @@ Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Pri
  # 2. UML 
  UML diagrams provide a clear visual representation of the  structure, user interactions, and workflow of an online shopping system.
  These diagrams help developers, designers, and stakeholders understand the system's architecture, functionality, and behavior and promote effective communication and collaboration throughout the  software 
- development process. Here is my UML for my project  
- [uml](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/UML_diagram.png)
-
- UML for my ML Model 
- 1. [Linear Regression](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/Linear_Regression.png)
-
-
-
- 2. [Random Forest Classifier](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/Random%20Forest.png)
-
+ development process. Here is my UML for my project [uml](https://github.com/shreyaa98/Car-Price-Prediction/tree/0c3c362f74f5e037aa522de9eda28fac0f9d8fe9/UML)
+ 
 ---
 # 3. Requirement Engineering
 [Screenshots of Jira and Trello](https://github.com/shreyaa98/Car-Price-Prediction/tree/a45153ba40e3db74640551b07b9ec976a752a1ee/Requirements%20Engineering%20(Trello%20and%20Jira))
