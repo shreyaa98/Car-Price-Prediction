@@ -9,7 +9,7 @@
 5. [Dataset](#dataset)
 6. [Git](#git)
 7. [UML](#uml)
-8. [Requirement Engineering](#requirement-engineering)
+8. [Requirement Engineering](#https://github.com/shreyaa98/Car-Price-Prediction?tab=readme-ov-file#3-requirement-engineering)
 9. [Analysis](#analysis)
 10. [DDD](#ddd)
 11. [Metrics](#metrics)
