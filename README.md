@@ -71,6 +71,7 @@ Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Pri
 
 ---
 # 4. Analysis
+Setting the foundation for a strong Car Price Prediction requires thorough analysis that includes defining the scope of the car price, identifying stakeholders, minimizing risks, guaranteeing compliance, integrating seamlessly, and assessing technical feasibility, budget, scalability, and market distinctiveness.
 
 ---
 
