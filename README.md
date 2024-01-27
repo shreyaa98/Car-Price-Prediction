@@ -50,12 +50,12 @@ To run the scraper, ensure you have the following dependencies installed:
 You can download the Chrome driver from the following [link](https://chromedriver.storage.googleapis.com/index.html). Please download the version that matches your browser version. For python, the download link is here [python link](https://www.python.org/)
 
 # Code File 
-To access the code and check how I created this project the link is given Below [python_file](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars24.py)
+To access the code and check how I created this project the link is given Below [Python file](https://github.com/shreyaa98/Car-Price-Prediction/blob/4c95da31eb53956948c3f0681eab9e618f030749/code/carAnalysisApp.py)
 
 # DataSet
 The scraped data consists of approximately 8015 rows and 9 columns, including the following information:
 
-The link for the dataset (https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars_24_combined.csv)
+[Link for the dataset](https://github.com/shreyaa98/Car-Price-Prediction/blob/main/cars_24_combined.csv)
 
 # 1. Git
 Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Price-Prediction/commits/main/)
@@ -131,10 +131,15 @@ Reference for Badge if the above link expires
 
 ---
 # 7. Clean Code
-Writing code that is simple to read, comprehend and update is known as "clean code development." It entails eliminating needless complexity, utilizing meaningful names, and maintaining consistency in formatting. Clean code is simpler and adheres to concepts like single responsibility, which improves collaboration and long-term software development.Here is my clean Code for my project [Clean Code](https://github.com/shreyaa98/Car-Price-Prediction/blob/7837a61b1b2750c93f52ea3640cd02e571e95c7d/Clean%20Code%20Development.pdf)
+Writing code that is simple to read, comprehend and update is known as "clean code development." It entails eliminating needless complexity, utilizing meaningful names, and maintaining consistency in formatting. Clean code is simpler and adheres to concepts like single responsibility, which improves collaboration and long-term software development. Here is my clean Code for my project [Clean Code](https://github.com/shreyaa98/Car-Price-Prediction/blob/7837a61b1b2750c93f52ea3640cd02e571e95c7d/Clean%20Code%20Development.pdf)
 
 ---
 # 8. Build
+Utilizes Python with a custom build system for predicting car price data and is designed for seamless integration as a reusable package. 
+
+[Link to build](https://github.com/shreyaa98/Car-Price-Prediction/blob/4c95da31eb53956948c3f0681eab9e618f030749/Build.md)
+
+[Link to yml](https://github.com/shreyaa98/Car-Price-Prediction/blob/4c95da31eb53956948c3f0681eab9e618f030749/Build.yml)
 
 ---
 # 9. Unit Tests
