@@ -135,6 +135,9 @@ Writing code that is simple to read, comprehend and update is known as "clean co
 
 ---
 # 9. Unit Tests
+The project's unit tests ensure robust functionality and adherence to specifications, promoting code reliability. 
+
+[![Test](https://github.com/shreyaa98/Car-Price-Prediction/actions/workflows/main.yml/badge.svg)](https://github.com/shreyaa98/Car-Price-Prediction/actions/workflows/main.yml)
 
 ---
 # 10. IDE
