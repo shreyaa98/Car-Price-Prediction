@@ -1,3 +1,4 @@
+# Import libraries
 import pandas as pd
 import pytest
 from unittest.mock import patch
@@ -27,7 +28,7 @@ def test_calculate_correlation_heatmap():
     assert isinstance(correlation_matrix, pd.DataFrame)
     assert correlation_matrix.shape == (2, 2)  # Adjust the shape according to your actual DataFrame
 
-
+# Method to display top 5 car types in a label
 def test_get_top_5_car_types():
     analysis = CarAnalysis(mock_df)
     top_5_car_types = analysis.get_top_5_car_types()
@@ -36,7 +37,7 @@ def test_get_top_5_car_types():
     assert isinstance(top_5_car_types, pd.DataFrame)
     assert top_5_car_types.shape == (4, 3)  # Adjust the shape according to your actual DataFrame
 
-
+ # Method to plot a bar chart for Owner vs. Price
 def test_get_owner_vs_price_data():
     analysis = CarAnalysis(mock_df)
     owner_vs_price_data = analysis.get_owner_vs_price_data()
@@ -45,7 +46,7 @@ def test_get_owner_vs_price_data():
     assert isinstance(owner_vs_price_data, pd.DataFrame)
     assert owner_vs_price_data.shape == (4, 2)  # Adjust the shape according to your actual DataFrame
 
-
+# Method to plot a bar chart for distance vs. Price
 def test_get_distance_vs_price_data():
     analysis = CarAnalysis(mock_df)
     distance_vs_price_data = analysis.get_distance_vs_price_data()
@@ -54,7 +55,7 @@ def test_get_distance_vs_price_data():
     assert isinstance(distance_vs_price_data, pd.DataFrame)
     assert distance_vs_price_data.shape == (4, 2)  # Adjust the shape according to your actual DataFrame
 
-
+# Method to plot a bar chart for Driving type vs. Price
 def test_get_driving_type_vs_price_data():
     analysis = CarAnalysis(mock_df)
     driving_type_vs_price_data = analysis.get_driving_type_vs_price_data()
