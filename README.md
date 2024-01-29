@@ -67,6 +67,7 @@ Usage of GitHub for the whole Project [Git](https://github.com/shreyaa98/Car-Pri
  
 ---
 # 3. Requirement Engineering
+Requirement engineering for my project involves gathering, analyzing, documenting, and managing the needs and constraints of the system's users and stakeholders. It's a crucial phase where clear and complete specifications are defined to guide the software development process. This includes understanding user expectations, functional and non-functional requirements, and potential risks. Effective requirement engineering ensures that the final software product meets user expectations and operates smoothly within the specified constraints, leading to a successful and satisfying outcome for both developers and users.
 [Screenshots of Jira and Trello](https://github.com/shreyaa98/Car-Price-Prediction/tree/a45153ba40e3db74640551b07b9ec976a752a1ee/Requirements%20Engineering%20(Trello%20and%20Jira))
 
 ---
