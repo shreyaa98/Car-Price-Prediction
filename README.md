@@ -50,7 +50,7 @@ To run the scraper, ensure you have the following dependencies installed:
 You can download the Chrome driver from the following [link](https://chromedriver.storage.googleapis.com/index.html). Please download the version that matches your browser version. For python, the download link is here [python link](https://www.python.org/)
 
 # Code File 
-To access the code and check how I created this project the link is given Below [Python file](https://github.com/shreyaa98/Car-Price-Prediction/blob/4c95da31eb53956948c3f0681eab9e618f030749/code/carAnalysisApp.py)
+To access the code and check how I created this project the link is given Below [Python file](https://github.com/shreyaa98/Car-Price-Prediction/tree/600276a9a063c71938b8e5b349e28bf5ecaec432/code)
 
 # DataSet
 The scraped data consists of approximately 8015 rows and 9 columns, including the following information:
