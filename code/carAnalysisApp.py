@@ -46,7 +46,7 @@ class CarAnalysis:
 class CarAnalysisApp:
     
     # Set up logging to record errors in a file
-    logging.basicConfig(filename='test.log', level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
+    logging.basicConfig(filename='yourfile name', level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 
     def __init__(self, root):
         self.root = root
